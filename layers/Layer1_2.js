@@ -1,0 +1,1 @@
+var json_Layer1_2 = {"type":"FeatureCollection","name":"Layer1_2","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1"},"geometry":{"type":"MultiPolygon","coordinates":[[[[77.51054,19.6041],[76.2393,23.17421],[79.14393,24.02606],[82.6392,21.01988],[80.39404,18.47464],[77.51054,19.6041]]]]}}]}
